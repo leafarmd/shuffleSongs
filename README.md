@@ -15,5 +15,7 @@
 
 ## TO DO
 >  Design improvements
+
 >  More Unit tests
+
 >  String Internationalization
